@@ -1,0 +1,26 @@
+<svg height="366" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="366" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 14:07:37 +0000    94726 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 14:07:37 +0000      396 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 14:07:37 +0000    11253 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 14:07:37 +0000      428 bytes  bower.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 14:07:37 +0000      605 bytes  build2/ArrayFileReader.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 14:07:37 +0000     1543 bytes  build2/BlobFileReader.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 14:07:37 +0000     1248 bytes  build2/ByteArrayUtils.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 14:07:37 +0000     6189 bytes  build2/ChunkedFileData.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 14:07:37 +0000     3586 bytes  build2/ID3v1TagReader.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 14:07:37 +0000     5780 bytes  build2/ID3v2FrameReader.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 14:07:37 +0000     9516 bytes  build2/ID3v2TagContents.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 14:07:37 +0000    13070 bytes  build2/ID3v2TagReader.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 14:07:37 +0000     1686 bytes  build2/MP4TagContents.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 14:07:37 +0000     9603 bytes  build2/MP4TagReader.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 14:07:37 +0000     4778 bytes  build2/MediaFileReader.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 14:07:37 +0000     2285 bytes  build2/MediaTagReader.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 14:07:37 +0000     2084 bytes  build2/NodeFileReader.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 14:07:37 +0000     2939 bytes  build2/StringUtils.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 14:07:37 +0000     7926 bytes  build2/XhrFileReader.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 14:07:37 +0000     7227 bytes  build2/jsmediatags.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 14:07:37 +0000     2584 bytes  package.json</tspan>
+</text>
+</svg>
